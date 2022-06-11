@@ -8,7 +8,7 @@
 #Function
 
 #in python we use def keyword to define a function
-'''
+
 def my function():
    < function body >
    return <expression>
@@ -28,8 +28,7 @@ b=int(input("Enter B:"))
 print("Sum = ",sum(a,b))
 
 
-'''
-'''
+
 #Variable lengh arguments(any no of arguments)
 
 #sum
@@ -40,9 +39,3 @@ def sum(*a):
       s=s+i
 
 print("Sum = ",sum(nos))
-
-'''
-
-
-
-

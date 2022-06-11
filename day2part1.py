@@ -114,7 +114,7 @@ It convets seq into list.
 '''
 l1=[1,2,3,4]
 l2=[4,5,6,7]
-#print(cpm(l1,l2))
+print(cpm(l1,l2))
 
 
 
